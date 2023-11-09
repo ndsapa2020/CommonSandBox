@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/CommonSandBox.iml" filepath="$PROJECT_DIR$/.idea/CommonSandBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/introduction-kotlin.iml" filepath="$PROJECT_DIR$/introduction-kotlin.iml" />
     </modules>
   </component>
 </project>

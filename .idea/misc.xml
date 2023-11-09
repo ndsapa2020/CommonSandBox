@@ -6,10 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/leetcode/pom.xml" />
         <option value="$PROJECT_DIR$/udemy/pom.xml" />
+        <option value="$PROJECT_DIR$/sand/pom.xml" />
+        <option value="$PROJECT_DIR$/kotlin/pom.xml" />
+        <option value="$PROJECT_DIR$/introduction-kotlin/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
